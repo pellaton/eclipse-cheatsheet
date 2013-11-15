@@ -6,7 +6,7 @@ A printable cheat sheet for the Eclipse SDK
 <table>
   <tr>
     <td><b>Eclipse Version</b></td>
-    <td><b>Single-page Version</b></td>
+    <td><b>PDF</b></td>
   </tr>
   <tr>
     <td>4.3</td>
