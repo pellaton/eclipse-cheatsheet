@@ -31,9 +31,8 @@ A printable cheat sheet for the Eclipse SDK
   </tr>
 </table>
 
-About
-=====
-The data on these cheat sheets is gathered as follows:
+### About
+The contents of these cheat sheets is gathered as follows:
 - Download and run a pristine Eclipse SDK in a new workspace
 - Open the preferences dialog and open the page <i>General > Keys</i>
 - Save the keyboard shortcuts by hitting the <i>Export CVS...</i> button
