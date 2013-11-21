@@ -36,6 +36,7 @@ The contents of these cheat sheets is gathered as follows:
 - Download and run a pristine Eclipse SDK in a new workspace
 - Open the preferences dialog and open the page <i>General > Keys</i>
 - Save the keyboard shortcuts by hitting the <i>Export CVS...</i> button
-- Open the CSV file with your favourite spreadsheet program and sort, rearrange & co the contents and save as ASCII file
+- Open the CSV file with a spreadsheet program and sort and rearrange the contents
+- Save it as an ASCII file
 - Diff to last versions ASCII to get the differences to edit the effective shortcut cheatsheet file
 
