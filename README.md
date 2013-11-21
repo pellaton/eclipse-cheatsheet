@@ -23,6 +23,11 @@ A printable cheat sheet for the Eclipse SDK
     <td>3.7</td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse3.7/eclipse-shortcuts-3.7.0.pdf">pdf</a></td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse3.7/eclipse-shortcuts-3.7.0.odt">pdf</a></td>
+  <tr>
+  <tr>
+    <td>3.6</td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse3.6/eclipse-shortcuts-3.6.2.pdf">pdf</a></td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse3.6/eclipse-shortcuts-3.6.2.odt">pdf</a></td>
   </tr>
 </table>
 
