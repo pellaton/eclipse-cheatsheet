@@ -10,6 +10,11 @@ A printable cheat sheet for the Eclipse SDK
     <td><b>ODT</b></td>
   </tr>
   <tr>
+    <td>4.4</td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.4/eclipse-shortcuts-4.4.0.pdf">pdf</a></td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.4/eclipse-shortcuts-4.4.0.odt">odt</a></td>
+  </tr>
+  <tr>
     <td>4.3</td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.3/eclipse-shortcuts-4.3.0.pdf">pdf</a></td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.3/eclipse-shortcuts-4.3.0.odt">odt</a></td>
