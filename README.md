@@ -49,9 +49,8 @@ A printable cheat sheet for the Eclipse SDK
 ## About
 The contents of these cheat sheets is gathered as follows:
 - Download and run a pristine Eclipse SDK in a new workspace
-- Open the preferences dialog and open the page <i>General > Keys</i>
+- Open the preferences dialog and go to the page <i>General > Keys</i>
 - Save the keyboard shortcuts by hitting the <i>Export CVS...</i> button
-- Open the CSV file with a spreadsheet program and sort and rearrange the contents
-- Save it as an ASCII file
-- Diff to last versions ASCII to get the differences to edit the effective shortcut cheatsheet file
+- Sort the file (`cat FILE | sort > SORTED_FILE`)
+- Diff to last versions ASCII to get the differences to edit the effective shortcut cheatsheet file (`diff -y oldfile newfile`)
 
