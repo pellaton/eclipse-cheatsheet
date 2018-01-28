@@ -16,8 +16,8 @@ A printable cheat sheet for the Eclipse SDK
   </tr>
   <tr>
     <td>4.7</td>
-    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.7/eclipse-shortcuts-4.7.2.pdf">pdf</a></td>
-    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.7/eclipse-shortcuts-4.7.2.odt">odt</a></td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.7/eclipse-shortcuts-win-4.7.2.pdf">pdf</a></td>
+    <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.7/eclipse-shortcuts-win-4.7.2.odt">odt</a></td>
   </tr>
   <tr>
     <td>4.6</td>
