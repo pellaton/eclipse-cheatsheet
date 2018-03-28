@@ -5,11 +5,15 @@ A printable cheat sheet for the Eclipse SDK
 
 <table>
   <tr>
-    <td><b>Eclipse Version</b></td>
-    <td><b>❖/🐧 PDF</b></td>
-    <td><b>❖/🐧 ODT</b></td>
-    <td><b> PDF</b></td>
-    <td><b> ODT</b></td>
+    <th rowspan=2 valign=top>Eclipse Version</th>
+    <th colspan=2>Windows/Linux</th>
+    <th colspan=2>macOS</th>
+  </tr>
+  <tr>
+    <th>PDF</th>
+    <th>ODT</th>
+    <th>PDF</th>
+    <th>ODT</th>
   </tr>
   <tr>
     <td>4.8.M4</td>
