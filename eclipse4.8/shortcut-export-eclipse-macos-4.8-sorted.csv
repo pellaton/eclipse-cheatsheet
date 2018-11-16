@@ -1,0 +1,231 @@
+Edit,Content Assist,⌃Space,In Dialogs and Windows
+Edit,Context Information,⌃⇧Space,In Dialogs and Windows
+Edit,Copy,⌘C,In Dialogs and Windows
+Edit,Cut,⌘X,In Dialogs and Windows
+Edit,Delete,⌦,In Windows
+Edit,Find Next,⌘K,Editing Text
+Edit,Find Previous,⇧⌘K,Editing Text
+Edit,Find and Replace,⌘F,In Windows
+Edit,Incremental Find Reverse,⇧⌘J,Editing Text
+Edit,Incremental Find,⌘J,Editing Text
+Edit,Paste,⌘V,In Dialogs and Windows
+Edit,Quick Diff Toggle,⌃⇧Q,Editing Text
+Edit,Quick Fix,⌘1,In Dialogs and Windows
+Edit,Redo,⇧⌘Z,In Dialogs and Windows
+Edit,Restore Last Selection,⌃⇧⇟,Editing Java Source
+Edit,Select All,⌘A,In Dialogs and Windows
+Edit,Select Enclosing Element,⌃⇧⇞,Editing Java Source
+Edit,Select Next Element,⌃⇧↘,Editing Java Source
+Edit,Select Previous Element,⌃⇧↖,Editing Java Source
+Edit,Toggle Block Selection,⌥⌘A,Editing Text
+Edit,Toggle Insert Mode,⇧⌘Insert,Editing Text
+Edit,Toggle Word Wrap,⌥⌘Y,Editing Text
+Edit,Undo,⌘Z,In Dialogs and Windows
+Edit,Word Completion,⌃.,Editing Text
+File,Close All,⇧⌘W,In Windows
+File,Close,⌘W,In Windows
+File,New menu,⌥⌘N,In Windows
+File,New,⌘N,In Windows
+File,Print,⌘P,In Windows
+File,Properties,⌘I,In Windows
+File,Properties,⌥↩,In Windows
+File,Refresh,F5,In Windows
+File,Rename,F2,In Windows
+File,Save All,⇧⌘S,In Windows
+File,Save,⌘S,In Windows
+Manifest Editor Source,Format Source,⇧⌘F,PDE editor
+Navigate,Backward History,⌘[,In Windows
+Navigate,Backward History,⌥⌘←,In Windows
+Navigate,Collapse All,⇧⌘Numpad_Divide,In Windows
+Navigate,Expand All,⇧⌘Numpad_Multiply,In Windows
+Navigate,Forward History,⌘],In Windows
+Navigate,Forward History,⌥⌘→,In Windows
+Navigate,Go to Line,⌘L,Editing Text
+Navigate,Go to Matching Bracket,⇧⌘P,Editing Java Source
+Navigate,Go to Next Member,⌃⌥↓,Editing Java Source
+Navigate,Go to Previous Member,⌃⌥↑,Editing Java Source
+Navigate,Last Edit Location,⌃Q,In Windows
+Navigate,Next Page,⌥F7,In Windows
+Navigate,Next Sub-Tab,⌥⇟,In Dialogs and Windows
+Navigate,Next,⌘.,In Windows
+Navigate,Open Attached Javadoc,⇧F2,In Windows
+Navigate,Open Call Hierarchy,⌃⌥H,In Windows
+Navigate,Open Declaration,F3,In Windows
+Navigate,Open Manifest,⌥⇧⌘M,In Windows
+Navigate,Open Plug-in Artifact,⇧⌘A,In Windows
+Navigate,Open Resource,⇧⌘R,In Windows
+Navigate,Open Structure,⌘F3,Editing Java Source
+Navigate,Open Type Hierarchy,F4,In Windows
+Navigate,Open Type in Hierarchy,⇧⌘H,In Windows
+Navigate,Open Type,⇧⌘T,In Windows
+Navigate,Open from Clipboard,⇧⌘V,In Windows
+Navigate,Previous Page,⌥⇧F7,In Windows
+Navigate,Previous Sub-Tab,⌥⇞,In Dialogs and Windows
+Navigate,Previous,⇧⌘.,In Windows
+Navigate,Quick Hierarchy,⌘T,Editing Java Source
+Navigate,Quick Outline,⌘O,Editing Java Source
+Navigate,Quick Outline,⌘O,PDE editor
+Navigate,Show In Breadcrumb,⌥⌘B,Editing Java Source
+Navigate,Show In Breadcrumb,⌥⌘B,Editor Breadcrumb Navigation
+Navigate,Show In...,⌥⌘W,In Windows
+Project,Build All,⌘B,In Windows
+Refactor - Java,Change Method Signature,⌥⌘C,In Windows
+Refactor - Java,Extract Local Variable,⌥⌘L,In Windows
+Refactor - Java,Extract Method,⌥⌘M,In Windows
+Refactor - Java,Inline,⌥⌘I,In Windows
+Refactor - Java,Move - Refactoring ,⌥⌘V,In Windows
+Refactor - Java,Rename - Refactoring ,⌥⌘R,In Windows
+Refactor - Java,Show Refactor Quick Menu,⌥⌘T,In Windows
+Run/Debug,Add Memory Block,⌥⌘M,In Memory View
+Run/Debug,All Instances,⇧⌘N,In Windows
+Run/Debug,Close Rendering,⌘W,In Memory View
+Run/Debug,Debug Ant Build,⌃⌥⌘D Q,In Windows
+Run/Debug,Debug Eclipse Application,⌃⌥⌘D E,In Windows
+Run/Debug,Debug JUnit Plug-in Test,⌃⌥⌘D P,In Windows
+Run/Debug,Debug JUnit Test,⌃⌥⌘D T,In Windows
+Run/Debug,Debug Java Applet,⌃⌥⌘D A,In Windows
+Run/Debug,Debug Java Application,⌃⌥⌘D J,In Windows
+Run/Debug,Debug OSGi Framework,⌃⌥⌘D O,In Windows
+Run/Debug,Debug,⌘F11,In Windows
+Run/Debug,Display,⇧⌘D,In Dialogs and Windows
+Run/Debug,EOF,⌃D,In I/O Console
+Run/Debug,Execute,⌘U,In Windows
+Run/Debug,Force Return,⌥⌘F,In Windows
+Run/Debug,Go to Address,⌘G,In Table Memory Rendering
+Run/Debug,Inspect,⇧⌘I,In Dialogs and Windows
+Run/Debug,Java Breakpoint Properties,⌥↩,In Breakpoints View
+Run/Debug,New Rendering,⌘N,In Memory View
+Run/Debug,Next Memory Monitor,⌥⌘N,In Memory View
+Run/Debug,Next Page of Memory,⇧⌘.,In Table Memory Rendering
+Run/Debug,Previous Page of Memory,"⇧⌘,",In Table Memory Rendering
+Run/Debug,Resume,F8,Debugging
+Run/Debug,Run Ant Build,⌥⌘X Q,In Windows
+Run/Debug,Run Eclipse Application,⌥⌘X E,In Windows
+Run/Debug,Run JUnit Plug-in Test,⌥⌘X P,In Windows
+Run/Debug,Run JUnit Test,⌥⌘X T,In Windows
+Run/Debug,Run Java Applet,⌥⌘X A,In Windows
+Run/Debug,Run Java Application,⌥⌘X J,In Windows
+Run/Debug,Run OSGi Framework,⌥⌘X O,In Windows
+Run/Debug,Run to Line,⌘R,Debugging
+Run/Debug,Run,⇧⌘F11,In Windows
+Run/Debug,Skip All Breakpoints,⌃⌥B,In Windows
+Run/Debug,Step Into Selection,⌥F5,Debugging
+Run/Debug,Step Into,F5,Debugging
+Run/Debug,Step Over,F6,Debugging
+Run/Debug,Step Return,F7,Debugging
+Run/Debug,Terminate,⌘F2,Debugging
+Run/Debug,Toggle Breakpoint,⇧⌘B,In Windows
+Run/Debug,Toggle Memory Monitors Pane,⌘T,In Memory View
+Run/Debug,Use Step Filters,⇧F5,In Windows
+Search,Declaration in Workspace,⌘G,In Windows
+Search,Find Text in Workspace,⌥⌘G,In Windows
+Search,Open Search Dialog,⌃H,In Windows
+Search,References in Workspace,⇧⌘G,In Windows
+Search,Show Occurrences in File Quick Menu,⇧⌘U,In Windows
+Source,Add Block Comment,⌃⌘/,Editing Java Source
+Source,Add Import,⇧⌘M,Editing Java Source
+Source,Add Javadoc Comment,⌥⌘J,In Windows
+Source,Annotate Class File,⌘1,Browsing attached Java Source
+Source,Correct Indentation,⌘I,Editing Java Source
+Source,Format,⇧⌘F,Editing Ant Buildfiles
+Source,Format,⇧⌘F,Editing Java Source
+Source,Open Declaration,F3,Editing Ant Buildfiles
+Source,Open External Documentation,⇧F2,Editing Ant Buildfiles
+Source,Organize Imports,⇧⌘O,In Windows
+Source,Quick Assist - Assign to field,⌘2 F,Editing Java Source
+Source,Quick Assist - Assign to local variable,⌘2 L,Editing Java Source
+Source,Quick Assist - Extract method,⌘2 M,Editing Java Source
+Source,Quick Assist - Rename in file,⌘2 R,Editing Java Source
+Source,Remove Block Comment,⇧⌘\,Editing Java Source
+Source,Remove Block Comment,⌃⌘\,Editing Java Source
+Source,Remove Occurrence Annotations,⌥⌘U,Editing Java Source
+Source,Rename In File,⌥⌘R,Editing Ant Buildfiles
+Source,Show Source Quick Menu,⌥⌘S,In Windows
+Source,Surround With Quick Menu,⌥⌘Z,In Windows
+Source,Toggle Ant Mark Occurrences,⌥⌘O,Editing Ant Buildfiles
+Source,Toggle Comment,⇧⌘C,Editing Java Source
+Source,Toggle Comment,⇧⌘C,Editing Properties Files
+Source,Toggle Comment,⌘/,Editing Java Source
+Source,Toggle Comment,⌘/,Editing Properties Files
+Source,Toggle Comment,⌘7,Editing Java Source
+Source,Toggle Comment,⌘7,Editing Properties Files
+Source,Toggle Mark Occurrences,⌥⌘O,Editing Java Source
+Spy,Layout Spy,⌥⇧⌘F9,In Dialogs and Windows
+Spy,Plug-in Menu Spy,⌥⇧F2,In Dialogs and Windows
+Spy,Plug-in Selection Spy,⌥⇧F1,In Dialogs and Windows
+Text Editing,Collapse All,⇧⌘Numpad_Divide,Editing Text
+Text Editing,Collapse,⌘Numpad_Subtract,Editing Text
+Text Editing,Copy Lines,⌥⌘↓,Editing Text
+Text Editing,Delete Line,⌘D,Editing Text
+Text Editing,Delete Next Word,⌥⌦,Editing Text
+Text Editing,Delete Previous Word,⌥⌫,Editing Text
+Text Editing,Delete to End of Line,⇧⌘⌦,Editing Text
+Text Editing,Duplicate Lines,⌥⌘↑,Editing Text
+Text Editing,Expand All,⌘Numpad_Multiply,Editing Text
+Text Editing,Expand,⌘Numpad_Add,Editing Text
+Text Editing,Insert Line Above Current Line,⇧⌘↩,Editing Text
+Text Editing,Insert Line Below Current Line,⇧↩,Editing Text
+Text Editing,Line End,⌘→,Editing Text
+Text Editing,Line Start,⌘←,Editing Text
+Text Editing,Move Lines Down,⌥↓,Editing Text
+Text Editing,Move Lines Up,⌥↑,Editing Text
+Text Editing,Next Word,⌥→,Editing Text
+Text Editing,Open Hyperlink,F3,in Generic Code Editor
+Text Editing,Previous Word,⌥←,Editing Text
+Text Editing,Reset Structure,⇧⌘Numpad_Multiply,Editing Text
+Text Editing,Select Line End,⇧⌘→,Editing Text
+Text Editing,Select Line Start,⇧⌘←,Editing Text
+Text Editing,Select Next Word,⌥⇧→,Editing Text
+Text Editing,Select Previous Word,⌥⇧←,Editing Text
+Text Editing,Select Text End,⇧↘,Editing Text
+Text Editing,Select Text Start,⇧↖,Editing Text
+Text Editing,Show Tooltip Description,F2,Editing Text
+Text Editing,Text End,↘,Editing Text
+Text Editing,Text End,⌘↘,Editing Text
+Text Editing,Text Start,↖,Editing Text
+Text Editing,Text Start,⌘↖,Editing Text
+Text Editing,To Lower Case,⇧⌘Y,Editing Text
+Text Editing,To Upper Case,⇧⌘X,Editing Text
+Text Editing,Toggle Folding,⌘Numpad_Divide,Editing Text
+Text Editing,Toggle Overwrite,Insert,Editing Text
+Text Editing,Zoom In,⌘+,Editing Text
+Text Editing,Zoom In,⌘=,Editing Text
+Text Editing,Zoom Out,⌘-,Editing Text
+Uncategorized,Add Artifact to Target Platform,⌥⇧⌘A,In Windows
+Uncategorized,Find References,⇧⌘G,in Generic Code Editor
+Views,Show View (Breakpoints),⌥⌘Q B,In Windows
+Views,Show View (Cheat Sheets),⌥⌘Q H,In Windows
+Views,Show View (Console),⌥⌘Q C,In Windows
+Views,Show View (Declaration),⌥⌘Q D,In Windows
+Views,Show View (Error Log),⌥⌘Q L,In Windows
+Views,Show View (History),⌥⌘Q Z,In Windows
+Views,Show View (Javadoc),⌥⌘Q J,In Windows
+Views,Show View (Outline),⌥⌘Q O,In Windows
+Views,Show View (Package Explorer),⌥⌘Q P,In Windows
+Views,Show View (Problems),⌥⌘Q X,In Windows
+Views,Show View (Search),⌥⌘Q S,In Windows
+Views,Show View (Synchronize),⌥⌘Q Y,In Windows
+Views,Show View (Type Hierarchy),⌥⌘Q T,In Windows
+Views,Show View (Variables),⌥⌘Q V,In Windows
+Views,Show View,⌥⌘Q Q,In Windows
+Window,Activate Editor,⌘F12,In Windows
+Window,Close Dialog,⌘W,In Dialogs
+Window,Maximize Active View or Editor,⌃M,In Windows
+Window,Next Editor,⌘F6,In Windows
+Window,Next Perspective,⌘F8,In Windows
+Window,Next View,⌘F7,In Windows
+Window,Previous Editor,⇧⌘F6,In Windows
+Window,Previous Perspective,⇧⌘F8,In Windows
+Window,Previous View,⇧⌘F7,In Windows
+Window,Quick Access,⌘3,In Windows
+Window,Quick Switch Editor,⌘E,In Windows
+Window,Show Context Menu,⇧F10,In Dialogs and Windows
+Window,Show Contributing Plug-in,⌥⇧F3,In Dialogs and Windows
+Window,Show Key Assist,⇧⌘L,In Dialogs and Windows
+Window,Show Ruler Context Menu,⌘F10,Editing Text
+Window,Show System Menu,⇧⌘F10,In Windows
+Window,Show View Menu,⌘F10,In Dialogs and Windows
+Window,Switch to Editor,⇧⌘E,In Windows
+Window,Toggle Full Screen,⌃⌘F,In Windows
+Window,Toggle Split Editor (Horizontal),⇧⌘-,In Windows
+Window,Toggle Split Editor (Vertical),⇧⌘[,In Windows
