@@ -16,7 +16,7 @@ A printable cheat sheet for the Eclipse SDK
     <th>ODT</th>
   </tr>
   <tr>
-    <td>4.9</td>
+    <td>4.9 / 4.10.M3</td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.9/eclipse-shortcuts-win-4.9.pdf">pdf</a></td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.9/eclipse-shortcuts-win-4.9.odt">odt</a></td>
     <td><a href="https://github.com/pellaton/eclipse-cheatsheet/raw/master/eclipse4.9/eclipse-shortcuts-macos-4.9.pdf">pdf</a></td>
